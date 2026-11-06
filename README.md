@@ -1,5 +1,5 @@
 # vim-wsl-launcher
-## Disclaimer: This code is AI slop.
+## Disclaimer: This code is AI slop.*
 
 ### Compilation command
 ```bash
@@ -12,5 +12,8 @@ gcc main.c resource.o -o VimLauncher.exe -O2 -lshlwapi
 2. Select "Choose an app on your PC" in the dialog box and select the compiled executable.
 3. _Voila!_
 
+TODO:
+config.ini for profile setting.
+caching project dirs for improved speed.
 
-todo pass in the name of the terminal profile
+*: for now.
