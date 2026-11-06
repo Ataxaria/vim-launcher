@@ -1,5 +1,5 @@
 # vim-wsl-launcher
-## Disclaimer: This code is AI slop.*
+## Disclaimer: This code is AI slop <sup><sub>for now</sub></sup>
 
 ### Compilation command
 ```bash
@@ -13,7 +13,5 @@ gcc main.c resource.o -o VimLauncher.exe -O2 -lshlwapi
 3. _Voila!_
 
 TODO:
-config.ini for profile setting.
-caching project dirs for improved speed.
-
-*: for now.
+- config.ini for profile setting.
+- caching project dirs for improved speed.
